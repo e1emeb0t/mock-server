@@ -11,8 +11,8 @@ npm i eleme-mock-server --save
 
 then import in your project, `Mock(cluster, config)` will return an axios instance, checkout the methods [here](https://github.com/mzabriskie/axios#instance-methods).
 
-* cluster: [String] your project's mock cluster.
-* config: [Object] `axios` config, see the detail [here](https://github.com/mzabriskie/axios#request-config).
+* cluster [String]: your project's mock cluster.
+* config [Object]: axios config, see the details [here](https://github.com/mzabriskie/axios#request-config).
 
 ```js
 import Mock from 'eleme-mock-server';
