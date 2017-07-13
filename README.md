@@ -1,9 +1,9 @@
 # Eleme Mock Server
 
+The offical javascript sdk, based on the awesome [axios](https://github.com/mzabriskie/axios).
+
 [![](https://img.shields.io/npm/v/eleme-mock-server.svg)](https://www.npmjs.com/package/eleme-mock-server)
 [![](https://img.shields.io/npm/dm/eleme-mock-server.svg)](https://www.npmjs.com/package/eleme-mock-server)
-
-The offical javascript sdk, based on the awesome [axios](https://github.com/mzabriskie/axios).
 
 Usage
 =======
